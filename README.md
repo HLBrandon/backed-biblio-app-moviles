@@ -84,3 +84,7 @@ http://localhost/biblio/autores/crear.php?nombre="Robert Jordan"
 ## Usuario y contraseña
 - Nombre de Usuario: admin
 - Contraseña admin123@
+
+## Aplicación Android
+
+- [App-gestor-material-bibliografico](https://github.com/HLBrandon/app-gestor-material-bibliografico "App-gestor-material-bibliografico")
