@@ -45,19 +45,18 @@ Tras descargar o clonar el repositorio, sigue estos pasos para instalarlo:
    - Editar las variables de entorno para la conexión a la base de datos y configuración del envío de correos.
 
      ```ini
-     define('APP_NAME', 'Sistema de Biblioteca Digital');
+      define('APP_NAME', 'Sistema de Biblioteca Digital');
 	 
-	define("HOST", "localhost");
-	define("USERNAME", "root");
-	define("PASS", "");
-	define("DBNAME", "biblio");
-	define("PORT", "3306");
+      define("HOST", "localhost");
+      define("USERNAME", "root");
+      define("PASS", "");
+      define("DBNAME", "biblio");
+      define("PORT", "3306");
 
-	define("MAIL_HOST", "smtp.example.com");
-	define("MAIL_USERNAME", "email@example.com");
-	define("MAIL_PASSWORD", "");
-	define("MAIL_PORT", 587);
-	
+      define("MAIL_HOST", "smtp.example.com");
+      define("MAIL_USERNAME", "email@example.com");
+      define("MAIL_PASSWORD", "");
+      define("MAIL_PORT", 587);
      ```
 
 ## Política de préstamos
