@@ -59,6 +59,10 @@ Tras descargar o clonar el repositorio, sigue estos pasos para instalarlo:
       define("MAIL_PORT", 587);
      ```
 
+4. **Importar Base de datos**
+    - En la carpeta `database` se encuentra el archivo sql.
+    - Importar mediante phpMyAdmin o MySQL Workbench
+
 ## Política de préstamos
 El sistema implementa las siguientes restricciones:
 - Cada lector puede pedir **máximo 2 libros** a la vez.
@@ -78,5 +82,5 @@ http://localhost/biblio/autores/crear.php?nombre="Robert Jordan"
 ```
 
 ## Usuario y contraseña
-Nombre de Usuario: admin
-Contraseña admin123@
+- Nombre de Usuario: admin
+- Contraseña admin123@
