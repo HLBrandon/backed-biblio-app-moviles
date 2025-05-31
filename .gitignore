@@ -1,0 +1,13 @@
+# Ignorar la carpeta de dependencias de Composer
+vendor/
+
+# Ignorar imágenes generadas
+image/
+
+# Ignorar archivos de configuración sensibles
+config.php
+
+# Ignorar archivos temporales y de entorno
+.env
+.DS_Store
+Thumbs.db

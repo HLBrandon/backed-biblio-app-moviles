@@ -1,0 +1,13 @@
+{
+    "name": "b_170/biblio",
+    "authors": [
+        {
+            "name": "HLBrandon",
+            "email": "bran17052003@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^6.0",
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
