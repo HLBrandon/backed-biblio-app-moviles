@@ -29,7 +29,7 @@ Tras descargar o clonar el repositorio, sigue estos pasos para instalarlo:
 1. **Descargar el código**
    - Clonar el repositorio con:
      ```sh
-     git clone https://github.com/usuario/proyecto.git
+     git clone https://github.com/HLBrandon/backed-biblio-app-moviles.git
      ```
    - O descargar el ZIP y extraerlo en la ubicación deseada.
 
